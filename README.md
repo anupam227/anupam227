@@ -1,10 +1,7 @@
 ### Hi World, I'm Anupam 👋
 
-<!--
-**anupam227/anupam227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F361836151305783020%2F&psig=AOvVaw3nBxma0_3RNy8WaHfjJtE3&ust=1622527798641000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjfjMWh8_ACFQAAAAAdAAAAABAd?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently working on MERN Stack
 - 🌱 I’m currently learning Data structures and algorithms
